@@ -6,7 +6,7 @@ print(room)
 print(myModel.test)
 #"""
 
-""""
+"""
 import myModel as mm
 
 room = mm.area(5, 6)

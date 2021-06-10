@@ -40,6 +40,8 @@ setC = {1, 2, 3, 4, 'A', 'B', 'C', 'D'}
 
 
 dictD = {"brand": "Honda", "model": "NC700X", "year": 2013, "electric": False, "colors": ["red", "black"]}
+
+
 # nøgle : værdi
 # Ordnet, kan ændres, kan ikke indeholde duplikerede værdier
 # len()
@@ -80,3 +82,4 @@ dictD = {"brand": "Honda", "model": "NC700X", "year": 2013, "electric": False, "
 
 # function1()
 # function2("Morten")
+
