@@ -3,8 +3,8 @@ from time import sleep
 # Interators
 names = ["Karina", "Rasmus", "Hubert", "Andreas"]
 
-#for x in names:
-#    print(x)
+for x in names:
+    print(x)
 
 """
 def getData(data):
