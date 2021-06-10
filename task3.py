@@ -11,7 +11,6 @@ def getData(data):
     dataList = []
     for i in range(len(data)):
         sleep(.75)
-        print(i)
         dataList.append(data[i])
     return dataList
 

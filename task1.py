@@ -4,9 +4,9 @@
 
 listA = [1, 2, 'A', 'B', 1, 2, 'A', 'B']
 # Ordnet, kan ændres, duplikerede værdier
-# print(listA[0])
-# print(listA[-1])
-# print(listA[2:5])
+print(listA[0])
+print(listA[-1])
+print(listA[2:5])
 # listA[2] = 'C'
 # print(listA)
 # listA.insert(4, 'C')
@@ -40,8 +40,6 @@ setC = {1, 2, 3, 4, 'A', 'B', 'C', 'D'}
 
 
 dictD = {"brand": "Honda", "model": "NC700X", "year": 2013, "electric": False, "colors": ["red", "black"]}
-
-
 # nøgle : værdi
 # Ordnet, kan ændres, kan ikke indeholde duplikerede værdier
 # len()
